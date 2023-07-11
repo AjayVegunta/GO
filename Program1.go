@@ -13,4 +13,5 @@ func check_even(num int) string {
 func main() {
 	a := check_even(6)
 	fmt.Println(a)
+	fmt.Println("hello")
 }
